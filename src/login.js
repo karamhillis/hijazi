@@ -19,7 +19,7 @@ class Signin extends Component {
             fontWeight: "bold",
           }}
         >
-          Dent Guide
+          SIGNING Up
         </h1>
 
         <Card
